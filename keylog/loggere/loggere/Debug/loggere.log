@@ -1,0 +1,3 @@
+﻿  logger.c
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 未解決の外部シンボル _main が関数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) で参照されました
+C:\Users\user\Desktop\自習\自習3\セキュリティ\keylog\loggere\Debug\loggere.exe : fatal error LNK1120: 1 件の未解決の外部参照
